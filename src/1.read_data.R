@@ -5,5 +5,3 @@ a<-read.csv('data_raw/wine.csv',
 head(a)
 
 write.csv(a,file='data_raw/wine.csv')
-
-zz
